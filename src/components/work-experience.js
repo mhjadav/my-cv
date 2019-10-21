@@ -20,7 +20,8 @@ const Experience = ({ experienceList }) => (
                     <i class="fa fa-calendar fa-fw mr-2 mt-2"></i>
                     {experience.from} - {experience.to === 'Current' ? <button type="button"
                     class="btn btn-primary btn-sm">{experience.to}</button> : experience.to}</h6>
-                <Card.Text class="card-text text-color-black" dangerouslySetInnerHTML={{ __html: experience.description}}>
+                <Card.Text class="card-text text-color-black">
+                    <div dangerouslySetInnerHTML={{ __html: experience.description}}></div>
                 </Card.Text>
                 <hr  /><br />
             </>
