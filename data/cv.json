@@ -1,0 +1,161 @@
+{
+    "profilePic": "images/profile.jpg",
+    "favicon": "images/favicon.jpg",
+    "about": {
+        "name": "Mahipat Jadav",
+        "location": "Ahmedabad, Gujarat",
+        "email": "mj@mojaave.com",
+        "phoneNumber": "+91-9898226919",
+        "skype": "mahipat2",
+        "status": "Freelance Software Developer",
+        "description": "Mahipat has 7+ years experience as a full-stack developer and has worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, his passion for frontend development allows him to analyze, design and develop beautiful and functional user interfaces.Freelance Software Developer"
+    },
+    "skills": [
+        {
+            "name": "Javascript",
+            "rating": "9",
+            "maxRating": "10"
+        },
+        {
+            "name": "HTML",
+            "rating": "10",
+            "maxRating": "10"
+        },
+        {
+            "name": "CSS",
+            "rating": "6",
+            "maxRating": "10"
+        },
+        {
+            "name": "ReactJS",
+            "rating": "8",
+            "maxRating": "10"
+        },
+        {
+            "name": "Redux",
+            "rating": "7",
+            "maxRating": "10"
+        },
+        {
+            "name": "NodeJS",
+            "rating": "8",
+            "maxRating": "10"
+        },
+        {
+            "name": "GraphQL",
+            "rating": "7",
+            "maxRating": "10"
+        },
+        {
+            "name": "MongoDB",
+            "rating": "7",
+            "maxRating": "10"
+        },
+        {
+            "name": "Bootstrap",
+            "rating": "7",
+            "maxRating": "10"
+        }
+
+    ],
+    "langauges": [
+        {
+            "name": "Gujarati",
+            "rating": "10",
+            "maxRating": "10"
+        },
+        {
+            "name": "Hindi",
+            "rating": "10",
+            "maxRating": "10"
+        },
+        {
+            "name": "English",
+            "rating": "8",
+            "maxRating": "10"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Freelance Software Developer",
+            "technology": "Javascript, HTML, CSS, React, Redux, GatsbyJS, NodeJS, Netlify, Github, Bootstrap, PWA, MongoDB, Wordpress API, Email Notification, Static website",
+            "company": "Other Projects",
+            "from": "July 2018",
+            "to": "Present",
+            "description": "<p><a style='text-decoration: underline;' href='https://hamiltonwireless.ca/'>Hamilton Wireless</a></p><p><a style='text-decoration: underline;' href='https://www.elmavin.com/'>El Mavin</a></p><p><a style='text-decoration: underline;' href='https://www.workshetra.com/'>Workshetra</a></p><p><a style='text-decoration: underline;' href='https://paladion.netlify.com/'>Paladion</a></p><p><a style='text-decoration: underline;' href='https://wireless.netlify.com/'>Wireless Whiz</a></p><p><a style='text-decoration: underline;' href='https://www.vvihardware.com/'>VVI Industries</a></p><p><a style='text-decoration: underline;' href='https://nxdigital.com.au/'>Nx Digital</a></p><p><a style='text-decoration: underline;' href='https://optimusdmin.netlify.com/'>Optimus DM</a></p><p><a style='text-decoration: underline;' href='https://packingwood.in/'>Pavan Industries</a></p>"
+        },
+        {
+            "title": "Freelance Software Developer",
+            "technology": "React, Redux, HTML, CSS, Firebase Notification",
+            "company": "Noon Academy",
+            "from": "Aug 2018",
+            "to": "Oct 2018",
+            "description": "<p>- Noon is a Middle-East company that connects students with on-demand tutors</p><p>- Worked on developing wireframes to HMTL designs and integrating APIs for the same page</p><p>- Used flex box style for front end, to ease styling vs. traditional CSS styling</p><p>- Rewrote pages in React and hence had to design various components from scratch such as flashcard slider, mock-test and practice test page, courses sidebar and slider, classroom page</p><p>- Implemented sagas (Redux-saga), reducers for the Required API and integration on certain pages, such as flashcard, mock-test, practice test, courses, etc.</p><p>- Integrated firebase notification</p>"
+        },
+        {
+            "title": "Freelance Software Developer",
+            "technology": "AngularJS, Javascript, HTML/CSS, Bootstrap, Lodash, ServiceNow API",
+            "company": "Quodroid Software",
+            "from": "July 2018",
+            "to": "Present",
+            "description": "<p style='white-space: pre-line;'>- Worked on multiple projects with ServiceNow</p><p>- Designed pages and frontend functionalities in AngularJS</p><p>- Implemented server script (using javascript and ServiceNow wrapper functions) to get data</p><p>- Developed the sidebar menu with infinite nesting, bootstrap nav tabs with slider, and traditional dashboard pages</p><p>- Used ServiceNow features to customise UI, create widgets, pages, table, UI scripts, etc.</p><p>- Servicenow has lots of wrapper in server and client script to query different data from table(Gliderecord), get value of current session(gs), service now widgets like record widget, date widget.</p>"
+        },
+        {
+            "title": "Freelance Software Developer",
+            "technology": "Javascript, Jekyll, HTML, CSS, Bootstrap, Google Drive Sheet API",
+            "company": "Plivo Documentation",
+            "from": "Oct 2018",
+            "to": "May 2019",
+            "description": "<p>- Developing the documentation and marketing pages of Plivo</p><p>- Conversion of html pages into Jekyll</p><p>- Bug fixes across pages</p>"
+        },
+        {
+            "title": "Software Engineer",
+            "technology": "React, HTML/CSS, RequireJS, Javascript, BackboneJS",
+            "company": "Cleartrip Pvt Ltd",
+            "from": "March 2017",
+            "to": "July 2018",
+            "description": "<p>- Worked as a part of the hotel UI team to incorporate new designs on the search page and also rewrite the filter module</p><p>- Implemented the effective pricing module which tackled various use cases around final prices seen on the checkout page such as money in wallet, etc.</p><p>- Built the 'Shortlist Hotel' module using React which allows users to filter hotels on search page itself without logging in</p><p>- Worked on background sync for search API to load hotel page faster</p>"
+        },
+        {
+            "title": "Sr. Software Engineer",
+            "technology": "CSS, HTML, AngularJS, NodeJS, Grunt, RequireJS, Javascript",
+            "company": "Polycom Technology R&D Center",
+            "from": "April 2015",
+            "to": "March 2017",
+            "description": "<p>- RPWS is a browser-based video calling portal that collaborates with other Polycom meeting endpoints</p><p>- Implemented the UI of asset-ready features with unit test cases</p><p>- Worked on features such as 'Join Meeting; and 'In meeting' (Includes video rendering, meeting menu feature, stats, other settings, content sharing etc.)</p><p>- Implemented APIs to integrate with third party clients</p>"
+        },
+        {
+            "title": "Software Engineer",
+            "technology": "C#, .NET, MVC, CSS, HTML5, JavaScript, Ajax, JQuerys",
+            "company": "Da-Coders (BizInTrade)",
+            "from": "April 2013",
+            "to": "Jan 2015",
+            "description": "<p>- The portal is used to post classified ads online with the main features including search, login/register, lists, messaging functionality to users, add to favourites, and admin dashboard</p><p>- Helped in design and UI Implementation of assets-ready features</p><p>- Handled user facing features like search, product listing, message post, product view etc</p>"
+        },
+        {
+            "title": "Software Engineer",
+            "technology": "C#, .NET, CSS, HTML5, Javascript, Ajax, JQuery",
+            "company": "Alpine Health",
+            "from": "April 2012",
+            "to": "April 2013",
+            "description": "<p>- Worked on e-Commerce portal for sellers and buyers of consumer products</p><p>- Sellers are given the tools to create their online stores and upload various products</p><p>- Helped in design and UI Implementation of assets-ready features</p><p>- Worked on user-facing modules including cart, payment gateway integration and pages such as home, category, product, search, etc.</p>"
+        },
+        {
+            "title": "Software Engineer",
+            "technology": "C#, .NET, CSS, HTML5, Javascript, Ajax, JQuery",
+            "company": "Info drive Pvt. Ltd",
+            "from": "July 2011",
+            "to": "April 2012",
+            "description": "<p>- IShelf is an online books library, where users can buy or read books online</p><p>- Implemented APIs Using C# and also developed the UI for the same</p><p>- Worked on features like Book List, Add, Open, Chat and Bookmark</p>"
+        }
+    ],
+    "education": [
+        {
+            "title": "Bachelor of Engineering, Computer Science",
+            "college": "Indus Institue Of Technology And Engineering",
+            "from": "June 2007",
+            "to": "July 2011",
+            "description": "Ahmedabad"
+        }
+    ]
+}
