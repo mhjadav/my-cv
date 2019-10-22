@@ -11,7 +11,7 @@ const Skills = ({ skillsList }) => (
                 <Card.Text>
                     {skill.name}
                 </Card.Text>
-                <ProgressBar now={skill.rating*100} label={`${skill.rating}/${skill.maxRating}`} />
+                <ProgressBar now={skill.rating*10} label={`${skill.rating}/${skill.maxRating}`} />
             </Col>
         ))}
     </>

@@ -11,7 +11,7 @@ const Langauges = ({ langaugesList }) => (
                 <Card.Text>
                     {langauge.name}
                 </Card.Text>
-                <ProgressBar now={langauge.rating*100} label={`${langauge.rating}/${langauge.maxRating}`} />
+                <ProgressBar now={langauge.rating*10} label={`${langauge.rating}/${langauge.maxRating}`} />
             </Col>
         ))}
     </>
