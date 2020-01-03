@@ -56,7 +56,6 @@
             "rating": "7",
             "maxRating": "10"
         }
-
     ],
     "langauges": [
         {
@@ -172,6 +171,13 @@
             "from": "June 2007",
             "to": "July 2011",
             "description": "Ahmedabad"
+        },
+        {
+            "title": "School - 6th To 12th",
+            "college": "Jawahar Navodaya Vidyalaya",
+            "from": "Aug 2000",
+            "to": "May 2007",
+            "description": "Porbandar"
         }
     ]
 }
