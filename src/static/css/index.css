@@ -107,7 +107,7 @@ a{
  justify-content: space-between;
  flex-direction: row;
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .freelance-projects{
     display: flex;
     justify-content: space-between;
