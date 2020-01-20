@@ -103,8 +103,14 @@ a{
   margin-top: 1.5rem;
 }
 .freelance-projects p{
-  width: fit-content;
-  margin: 0;
-  float: left;
-  margin-right: 20px;
+ display: flex;
+ justify-content: space-between;
+ flex-direction: row;
+}
+@media (min-width: 768px) {
+  .freelance-projects p{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+   }
 }
