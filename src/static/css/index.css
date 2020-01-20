@@ -102,13 +102,13 @@ a{
   box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
   margin-top: 1.5rem;
 }
-.freelance-projects p{
+.freelance-projects{
  display: flex;
  justify-content: space-between;
  flex-direction: row;
 }
 @media (min-width: 768px) {
-  .freelance-projects p{
+  .freelance-projects{
     display: flex;
     justify-content: space-between;
     flex-direction: column;
