@@ -18,7 +18,7 @@
         },
         {
             "name": "HTML",
-            "rating": "10",
+            "rating": "9",
             "maxRating": "10"
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "name": "NodeJS",
-            "rating": "8",
+            "rating": "6",
             "maxRating": "10"
         },
         {
             "name": "GraphQL",
-            "rating": "7",
+            "rating": "6",
             "maxRating": "10"
         },
         {
             "name": "MongoDB",
-            "rating": "7",
+            "rating": "5",
             "maxRating": "10"
         },
         {
