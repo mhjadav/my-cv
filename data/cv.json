@@ -6,6 +6,7 @@
         "location": "Ahmedabad, Gujarat",
         "email": "mj@mojaave.com",
         "phoneNumber": "+91-9898226919",
+        "website": "https://mojaave.com",
         "skype": "mahipat2",
         "status": "Freelance Software Developer",
         "description": "With 7+ years of experience as a developer and worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces."
@@ -77,11 +78,11 @@
     "experience": [
         {
             "title": "Freelance Software Developer",
-            "technology": "Javascript, HTML, CSS, React, Redux, GatsbyJS, NodeJS, Netlify, Github, Bootstrap, PWA, MongoDB, Wordpress API, Email Notification, Static website",
-            "company": "Other Projects",
-            "from": "July 2018",
+            "technology": "Javascript, ReactJS, Redux, HTML, CSS, SCSS",
+            "company": "Noon Academy",
+            "from": "June 2020",
             "to": "Present",
-            "description": "<div class='freelance-projects'><p><a style='text-decoration: underline;' href='https://hamiltonwireless.ca/'>Hamilton Wireless</a></p><p><a style='text-decoration: underline;' href='https://www.elmavin.com/'>El Mavin</a></p><p><a style='text-decoration: underline;' href='https://www.workshetra.com/'>Workshetra</a></p><p><a style='text-decoration: underline;' href='https://paladion.netlify.com/'>Paladion</a></p><p><a style='text-decoration: underline;' href='https://wireless.netlify.com/'>Wireless Whiz</a></p><p><a style='text-decoration: underline;' href='https://www.vvihardware.com/'>VVI Industries</a></p><p><a style='text-decoration: underline;' href='https://nxdigital.com.au/'>Nx Digital</a></p><p><a style='text-decoration: underline;' href='https://optimusdmin.netlify.com/'>Optimus DM</a></p><p><a style='text-decoration: underline;' href='https://packingwood.in/'>Pavan Industries</a></p></div>"
+            "description": "<p>- Noon is a Middle-East company that connects students with on-demand tutors, it's kind of social channel to connect teacher and student.</p><p>- Worked on buidling web pages using ReactJS, CSS, SCSS from wireframes</p><p>- Make webpage inteterative by integrating API and action, using ReactJS, Redux, Redux-Saga etc.</p><p>- Responsible for end to end delivery of the feature, from design until it goes live.</p>"
         },
         {
             "title": "Freelance Software Developer",
@@ -112,8 +113,8 @@
             "technology": "AngularJS, Javascript, HTML/CSS, Bootstrap, Lodash, ServiceNow API",
             "company": "Quodroid Software",
             "from": "July 2018",
-            "to": "Present",
-            "description": "<p style='white-space: pre-line;'>- Worked on multiple projects with ServiceNow</p><p>- Designed pages and frontend functionalities in AngularJS</p><p>- Implemented server script (using javascript and ServiceNow wrapper functions) to get data</p><p>- Developed the sidebar menu with infinite nesting, bootstrap nav tabs with slider, and traditional dashboard pages</p><p>- Used ServiceNow features to customise UI, create widgets, pages, table, UI scripts, etc.</p><p>- Servicenow has lots of wrapper in server and client script to query different data from table(Gliderecord), get value of current session(gs), service now widgets like record widget, date widget.</p>"
+            "to": "Oct 2020",
+            "description": "<p>- Designed pages and frontend functionalities in AngularJS</p><p>- Implemented server script (using javascript and ServiceNow wrapper functions) to get data</p><p>- Used ServiceNow features to customise UI, create widgets, pages, table, UI scripts, etc.</p>"
         },
         {
             "title": "Freelance Software Developer",
@@ -154,14 +155,6 @@
             "from": "April 2012",
             "to": "April 2013",
             "description": "<p>- Worked on e-Commerce portal for sellers and buyers of consumer products</p><p>- Sellers are given the tools to create their online stores and upload various products</p><p>- Helped in design and UI Implementation of assets-ready features</p><p>- Worked on user-facing modules including cart, payment gateway integration and pages such as home, category, product, search, etc.</p>"
-        },
-        {
-            "title": "Software Engineer",
-            "technology": "C#, .NET, CSS, HTML5, Javascript, Ajax, JQuery",
-            "company": "Info drive Pvt. Ltd",
-            "from": "July 2011",
-            "to": "April 2012",
-            "description": "<p>- IShelf is an online books library, where users can buy or read books online</p><p>- Implemented APIs Using C# and also developed the UI for the same</p><p>- Worked on features like Book List, Add, Open, Chat and Bookmark</p>"
         }
     ],
     "education": [

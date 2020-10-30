@@ -63,6 +63,7 @@ export const query = graphql`
               location
               name
               phoneNumber
+              website
               status
               skype
             }
@@ -78,6 +79,7 @@ const EventTemplate = ({ data: { site: { siteMetadata }, resume: { favicon, prof
         <Col xs={12} md={9}>
             <Experience experienceList={experience} />
             <Education educationList={education} />
+            <br />
         </Col>
     </Layout>
 );

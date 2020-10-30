@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, ListGroup } from 'react-bootstrap';
 
-const About = ({ "about": { name, description, location, email, phoneNumber, status, skype }}) => (
+const About = ({ "about": { name, description, location, email, phoneNumber, status, skype, website }}) => (
     <>
     <Card.Body>
         <Card.Title>
@@ -23,6 +23,9 @@ const About = ({ "about": { name, description, location, email, phoneNumber, sta
         </ListGroup.Item>
         <ListGroup.Item>
         <a href={`tel:${phoneNumber}`}>{phoneNumber}</a>
+        </ListGroup.Item>
+        <ListGroup.Item>
+        <a href={`${website}`}>{website}</a>
         </ListGroup.Item>
         <ListGroup.Item>
          Skype: <a href={`Skype:${skype}`}>{skype}</a>

@@ -7,7 +7,7 @@ import Social from './social';
 import Langauges from './langauge';
 
 const Sidebar = ({ profileImage, about, skills, langauges, social }) => (
-    <Card>
+    <Card className="sidebar-card">
         <ProfilePic profileImage={profileImage} name={about.name} />
         <About about={about} />
         <Card.Body>

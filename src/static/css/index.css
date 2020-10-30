@@ -99,13 +99,20 @@ a{
 .card{
   color: #757575!important;
   background-color: #fff!important;
-  box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
-  margin-top: 1.5rem;
+  box-shadow: none;
+  margin-top: 1rem;
+  
+}
+.card:not(.sidebar-card) {
+  height: 100%;
 }
 .freelance-projects{
  display: flex;
  justify-content: space-between;
  flex-direction: row;
+}
+.experience-col {
+  margin-bottom: 1rem;
 }
 @media (max-width: 768px) {
   .freelance-projects{
