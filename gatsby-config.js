@@ -1,8 +1,8 @@
 module.exports ={
     siteMetadata: {
-        title: `Full Stack Developer - "Javascript, HTML, CSS, React, Redux, GatsbyJS, NodeJS"`,
-        description: `Mahipat has 7+ years experience as a full-stack developer and has worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, his passion for frontend development allows him to analyse, design and develop beautiful and functional user interfaces.`,
-        author: `Mahipatsinh Jadav`,
+        title: `Freelance Software Developer - "Javascript, HTML, CSS, ReactJS, Redux, GatsbyJS, NodeJS"`,
+        description: `With 7+ years of experience as a developer and worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces.`,
+        author: `Mahipat Jadav`,
         siteUrl: "https://cv.mojaave.com",
         social: [
           {
