@@ -17,6 +17,10 @@ module.exports ={
             name: `linkedin`,
             url: `https://linkedin.com/in/mhjadav`,
           },
+            {
+            name: `medium`,
+            url: `https://medium.com/@mjadav`,
+          },
         ],
     },
     plugins: [
