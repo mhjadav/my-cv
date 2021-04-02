@@ -64,7 +64,7 @@ body{
   text-align: center;
 }
 .fa-medium:before {
-  content: "\f23a";
+  content: "\e900"
 }
 /* end font-awesome style*/
 .margin-right{
