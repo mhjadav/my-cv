@@ -9,7 +9,7 @@ const Experience = ({ experienceList }) => (
         </h2>
         <Row>
         {experienceList.map((experience, index) => (
-           <Col xs={12} md={6} className="experience-col">
+           <Col xs={12} md={12} className="experience-col">
             <Card>
                 <Card.Body>
                     <Card.Title>

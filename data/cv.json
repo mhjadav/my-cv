@@ -3,23 +3,23 @@
     "favicon": "images/favicon.jpg",
     "about": {
         "name": "Mahipat Jadav",
-        "location": "Ahmedabad, Gujarat",
+        "location": "Bangalore, India",
         "email": "mj@mojaave.com",
         "phoneNumber": "+91-9898226919",
         "website": "https://mojaave.com",
         "skype": "mahipat2",
-        "status": "Freelance Software Developer",
-        "description": "With 7+ years of experience as a developer and worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces."
+        "status": "Software Developer",
+        "description": "With 8+ years of experience as a developer and worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces."
     },
     "skills": [
         {
             "name": "Javascript",
-            "rating": "9",
+            "rating": "8",
             "maxRating": "10"
         },
         {
             "name": "HTML",
-            "rating": "9",
+            "rating": "8",
             "maxRating": "10"
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "name": "Redux",
-            "rating": "7",
+            "rating": "8",
             "maxRating": "10"
         },
         {
@@ -45,16 +45,6 @@
         {
             "name": "GraphQL",
             "rating": "6",
-            "maxRating": "10"
-        },
-        {
-            "name": "MongoDB",
-            "rating": "5",
-            "maxRating": "10"
-        },
-        {
-            "name": "Bootstrap",
-            "rating": "7",
             "maxRating": "10"
         }
     ],
@@ -77,12 +67,12 @@
     ],
     "experience": [
         {
-            "title": "Freelance Software Developer",
-            "technology": "Javascript, ReactJS, Redux, HTML, CSS, SCSS",
+            "title": "Software Developer",
+            "technology": "Javascript, ReactJS, Redux, HTML, CSS, SCSS, NodeJS",
             "company": "Noon Academy",
             "from": "June 2020",
             "to": "Present",
-            "description": "<p>- Noon is a Middle-East company that connects students with on-demand tutors, it's kind of social channel to connect teacher and student.</p><p>- Worked on buidling web app using Javacript, ReactJS, SCSS from wireframes</p><p>- Major features i worked on is build new student web group pages, teacher dashboard, planner(calendar), curriculum(drag and drop) etc.</p><p>- Responsible for end to end delivery of the feature, from design until it goes live.</p>"
+            "description": "<p>- Noon is a Middle-East company that connects students with on-demand tutors, it's kind of social channel to connect teacher and student.</p><p>- Worked on buidling web app using Javacript, ReactJS, SCSS from wireframes</p><p>- Major features i worked on is build new student web group pages, teacher dashboard, planner(calendar), curriculum(drag and drop), Payment Gatewway Integration etc.</p><p>- Responsible for end to end delivery of the feature, from design until it goes live.</p>"
         },
         {
             "title": "Freelance Software Developer",
@@ -99,14 +89,6 @@
             "from": "Aug 2019",
             "to": "Sept 2019",
             "description": "<p>Orion is a peer to peer file sharing application(Web/Desktop), where you can upload and download any file, Build using IPFS protocol.</p><p>- Designed &amp; implemented UI for siderus file sharing app</p><p>- Designed orion.siderus.com, with hugo using material ui</p><p>- Implemented features like theme switch, share file &amp; download file options, and new addition in settings menu</p><p>- Added option to sync setting in electron and web app with web workers</p><p>- Used web workers to communicate between web and electron app</p>"
-        },
-        {
-            "title": "Freelance Software Developer",
-            "technology": "React, Redux, HTML, CSS, Firebase Notification",
-            "company": "Noon Academy",
-            "from": "Aug 2018",
-            "to": "Oct 2018",
-            "description": "<p>- Noon is a Middle-East company that connects students with on-demand tutors</p><p>- Worked on developing wireframes to HMTL designs and integrating APIs for the same page</p><p>- Used flex box style for front end, to ease styling vs. traditional CSS styling</p><p>- Rewrote pages in React and hence had to design various components from scratch such as flashcard slider, mock-test and practice test page, courses sidebar and slider, classroom page</p><p>- Implemented sagas (Redux-saga), reducers for the Required API and integration on certain pages, such as flashcard, mock-test, practice test, courses, etc.</p><p>- Integrated firebase notification</p>"
         },
         {
             "title": "Freelance Software Developer",
