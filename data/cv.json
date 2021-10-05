@@ -76,6 +76,14 @@
         },
         {
             "title": "Freelance Software Developer",
+            "technology": "AngularJS, Javascript, HTML/CSS, Bootstrap, Lodash, ServiceNow API",
+            "company": "Quodroid Software",
+            "from": "July 2018",
+            "to": "Oct 2020",
+            "description": "<p>- Designed pages and frontend functionalities in AngularJS</p><p>- Implemented server script (using javascript and ServiceNow wrapper functions) to get data</p><p>- Used ServiceNow features to customise UI, create widgets, pages, table, UI scripts, etc.</p>"
+        },
+        {
+            "title": "Freelance Software Developer",
             "technology": "HTML, JavaScript, Browser Extension, InboxSDK",
             "company": "Chrome Extension (Reflektive)",
             "from": "Aug 2019",
@@ -89,14 +97,6 @@
             "from": "Aug 2019",
             "to": "Sept 2019",
             "description": "<p>Orion is a peer to peer file sharing application(Web/Desktop), where you can upload and download any file, Build using IPFS protocol.</p><p>- Designed &amp; implemented UI for siderus file sharing app</p><p>- Designed orion.siderus.com, with hugo using material ui</p><p>- Implemented features like theme switch, share file &amp; download file options, and new addition in settings menu</p><p>- Added option to sync setting in electron and web app with web workers</p><p>- Used web workers to communicate between web and electron app</p>"
-        },
-        {
-            "title": "Freelance Software Developer",
-            "technology": "AngularJS, Javascript, HTML/CSS, Bootstrap, Lodash, ServiceNow API",
-            "company": "Quodroid Software",
-            "from": "July 2018",
-            "to": "Oct 2020",
-            "description": "<p>- Designed pages and frontend functionalities in AngularJS</p><p>- Implemented server script (using javascript and ServiceNow wrapper functions) to get data</p><p>- Used ServiceNow features to customise UI, create widgets, pages, table, UI scripts, etc.</p>"
         },
         {
             "title": "Freelance Software Developer",
