@@ -9,70 +9,18 @@
         "website": "https://mojaave.com",
         "skype": "mahipat2",
         "status": "Software Developer",
-        "description": "With 8+ years of experience as a developer and worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces."
+        "description": "With 8+ years of experience as a developer and worked across diverse fields such as edTech, e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces."
     },
-    "skills": [
-        {
-            "name": "Javascript",
-            "rating": "8",
-            "maxRating": "10"
-        },
-        {
-            "name": "HTML",
-            "rating": "8",
-            "maxRating": "10"
-        },
-        {
-            "name": "CSS",
-            "rating": "6",
-            "maxRating": "10"
-        },
-        {
-            "name": "ReactJS",
-            "rating": "8",
-            "maxRating": "10"
-        },
-        {
-            "name": "Redux",
-            "rating": "8",
-            "maxRating": "10"
-        },
-        {
-            "name": "NodeJS",
-            "rating": "6",
-            "maxRating": "10"
-        },
-        {
-            "name": "GraphQL",
-            "rating": "6",
-            "maxRating": "10"
-        }
-    ],
-    "langauges": [
-        {
-            "name": "Gujarati",
-            "rating": "10",
-            "maxRating": "10"
-        },
-        {
-            "name": "Hindi",
-            "rating": "10",
-            "maxRating": "10"
-        },
-        {
-            "name": "English",
-            "rating": "8",
-            "maxRating": "10"
-        }
-    ],
+    "skills": ["Javascript", "HTML", "CSS", "ReactJS", "NextJS", "NodeJS"],
+    "langauges": ["Gujarati", "Hindi", "English"],
     "experience": [
         {
             "title": "Software Developer",
-            "technology": "Javascript, ReactJS, Redux, HTML, CSS, SCSS, NodeJS",
+            "technology": "Javascript, NextJS, ReactJS, Redux, HTML, CSS, SCSS, NodeJS",
             "company": "Noon Academy",
             "from": "June 2020",
             "to": "Present",
-            "description": "<p>- Noon is a Middle-East company that connects students with on-demand tutors, it's kind of social channel to connect teacher and student.</p><p>- Worked on buidling web app using Javacript, ReactJS, SCSS from wireframes</p><p>- Major features i worked on is build new student web group pages, teacher dashboard, planner(calendar), curriculum(drag and drop), Payment Gatewway Integration etc.</p><p>- Responsible for end to end delivery of the feature, from design until it goes live.</p>"
+            "description": "<p>- Noon Academy is a Middle-East company, Our goal is to connects students with on-demand tutors, it's kind of social channel to connect teacher and student.</p><p>- My contribution at is mostly in web apps (Student, Teacher and Admin) using Javacript, NextJS, ReactJS, SCSS</p><p>- Our goal is to make web light weight, fast and accessible</p><p>- Major features i worked on is build new student web classroom, group pages, teacher dashboard, planner(calendar), curriculum(drag and drop), Payment Gatewway Integration etc.</p><p>- Responsible for end to end delivery of the feature, from design until it goes live.</p>"
         },
         {
             "title": "Freelance Software Developer",

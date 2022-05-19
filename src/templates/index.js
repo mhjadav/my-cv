@@ -32,16 +32,8 @@ export const query = graphql`
             favicon{
               publicURL
             }
-            skills {
-              maxRating
-              name
-              rating
-            }
-            langauges {
-              maxRating
-              name
-              rating
-            }
+            skills
+            langauges
             experience {
               company
               technology

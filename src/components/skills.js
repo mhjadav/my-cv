@@ -9,9 +9,8 @@ const Skills = ({ skillsList }) => (
         {skillsList.map(skill => (
             <Col>
                 <Card.Text>
-                    {skill.name}
+                    {skill}
                 </Card.Text>
-                <ProgressBar now={skill.rating*10} label={`${skill.rating}/${skill.maxRating}`} />
             </Col>
         ))}
     </>

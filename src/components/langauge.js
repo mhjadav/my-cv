@@ -9,9 +9,8 @@ const Langauges = ({ langaugesList }) => (
         {langaugesList.map(langauge => (
             <Col>
                 <Card.Text>
-                    {langauge.name}
+                    {langauge}
                 </Card.Text>
-                <ProgressBar now={langauge.rating*10} label={`${langauge.rating}/${langauge.maxRating}`} />
             </Col>
         ))}
     </>
