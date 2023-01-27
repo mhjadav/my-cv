@@ -65,11 +65,11 @@ export const query = graphql`
 
 const EventTemplate = ({ data: { site: { siteMetadata }, resume: { favicon, profilePic, skills, social, langauges, experience, education, about, metaInfo } } }) => (
     <Layout siteMetadata={{...siteMetadata, ...{favicon: favicon.publicURL}}}>
-        <Col xs={12} md={3}>
+        <Col xs={12} md={4}>
            <Sidebar profileImage={profilePic} about={about} skills={skills} langauges={langauges} social={siteMetadata.social} />
             <Education educationList={education} />
         </Col>
-        <Col xs={12} md={9}>
+        <Col xs={12} md={8}>
             <Experience experienceList={experience} />
             <br />
         </Col>
