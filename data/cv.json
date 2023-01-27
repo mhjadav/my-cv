@@ -8,14 +8,14 @@
         "phoneNumber": "+91-9898226919",
         "website": "https://mojaave.com",
         "skype": "mahipat2",
-        "status": "Software Developer",
-        "description": "With 8+ years of experience as a developer and worked across diverse fields such as edTech, e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces."
+        "status": "Sr. Software Developer",
+        "description": "With 10+ years of experience as a developer and worked across diverse fields such as edTech, e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces."
     },
     "skills": ["Javascript", "HTML", "CSS", "ReactJS", "NextJS", "NodeJS"],
     "langauges": ["Gujarati", "Hindi", "English"],
     "experience": [
         {
-            "title": "Software Developer",
+            "title": "Sr. Software Developer",
             "technology": "Javascript, NextJS, ReactJS, Redux, HTML, CSS, SCSS, NodeJS",
             "company": "Noon Academy",
             "from": "June 2020",
