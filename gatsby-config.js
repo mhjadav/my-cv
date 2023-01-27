@@ -1,6 +1,6 @@
 module.exports ={
     siteMetadata: {
-        title: `Freelance Software Developer - "Javascript, HTML, CSS, ReactJS, Redux, GatsbyJS, NodeJS"`,
+        title: `Software Engineer - "Javascript, HTML, CSS, NextJS, ReactJS, Redux, Typescript, NodeJS"`,
         description: `With 7+ years of experience as a developer and worked across diverse fields such as e-commerce, travel, pharma and collaboration domains. Proficient in technologies such as React, Javascript, HTML/CSS, NodeJS and AngularJS, my passion for frontend development allows me to analyze and develop beautiful, fast and functional user interfaces.`,
         author: `Mahipat Jadav`,
         siteUrl: "https://cv.mojaave.com",

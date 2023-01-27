@@ -124,6 +124,14 @@ a{
 .experience-col {
   margin-bottom: 0.5rem;
 }
+
+.education-card {
+  border: 0;
+}
+
+.education-card .card-body {
+  padding: 0;
+}
 @media (max-width: 768px) {
   .freelance-projects{
     display: flex;
@@ -133,7 +141,7 @@ a{
 }
 
 @media print {
-  .card-link {
-    display: none;
+  .sidebar-card.education {
+    margin-top: 400px;
   }
 }

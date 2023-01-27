@@ -5,7 +5,7 @@ const About = ({ "about": { name, description, location, email, phoneNumber, sta
     <>
     <Card.Body>
         <Card.Title>
-            {name}
+           <b>{name}</b>
         </Card.Title>
         <Card.Subtitle>
             {status}

@@ -8,7 +8,6 @@ import Langauges from './langauge';
 
 const Sidebar = ({ profileImage, about, skills, langauges, social }) => (
     <Card className="sidebar-card">
-        <ProfilePic profileImage={profileImage} name={about.name} />
         <About about={about} />
         <Card.Body>
             <Skills skillsList={skills} />

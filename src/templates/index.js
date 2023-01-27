@@ -67,10 +67,10 @@ const EventTemplate = ({ data: { site: { siteMetadata }, resume: { favicon, prof
     <Layout siteMetadata={{...siteMetadata, ...{favicon: favicon.publicURL}}}>
         <Col xs={12} md={3}>
            <Sidebar profileImage={profilePic} about={about} skills={skills} langauges={langauges} social={siteMetadata.social} />
+            <Education educationList={education} />
         </Col>
         <Col xs={12} md={9}>
             <Experience experienceList={experience} />
-            <Education educationList={education} />
             <br />
         </Col>
     </Layout>
