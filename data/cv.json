@@ -23,7 +23,7 @@
             "description": "<p>- Noon Academy is a Middle-East company, Our goal is to connects students with on-demand tutors, it's kind of social channel to connect teacher and student.</p><p>- My contribution at is mostly in web apps (Student, Teacher and Admin) using Javacript, NextJS, ReactJS, SCSS</p><p>- Our goal is to make web light weight, fast and accessible</p><p>- Major features i worked on is build new student web classroom, group pages, teacher dashboard, planner(calendar), curriculum(drag and drop), Payment Gatewway Integration etc.</p><p>- Responsible for end to end delivery of the feature, from design until it goes live.</p>"
         },
         {
-            "title": "Freelance Software Developer",
+            "title": "Software Developer (Contract)",
             "technology": "AngularJS, Javascript, HTML/CSS, Bootstrap, Lodash, ServiceNow API",
             "company": "Quodroid Software",
             "from": "July 2018",
@@ -31,7 +31,7 @@
             "description": "<p>- Designed pages and frontend functionalities in AngularJS</p><p>- Implemented server script (using javascript and ServiceNow wrapper functions) to get data</p><p>- Used ServiceNow features to customise UI, create widgets, pages, table, UI scripts, etc.</p>"
         },
         {
-            "title": "Freelance Software Developer",
+            "title": "Software Developer (Contract)",
             "technology": "HTML, JavaScript, Browser Extension, InboxSDK",
             "company": "Chrome Extension (Reflektive)",
             "from": "Aug 2019",
@@ -39,7 +39,7 @@
             "description": "<p>Reflektive's browser extension is used to read user details from the email user is reading and load info about the user in sidebar panel.</p><p>- Refactor Extension code</p><p>- Used inboxSDK API to load Chrome extension as add-on</p><p>- Integrated Inbox SDK API</p><p>- Integrated Bug tracker in extension</p>"
         },
         {
-            "title": "Freelance Software Developer",
+            "title": "Software Developer (Contract)",
             "technology": "ReactJS, HTML, CSS, JavaScript, ElectronJS, Basic Of IPFS, Hugo",
             "company": "Orion (Siderus)",
             "from": "Aug 2019",
@@ -47,7 +47,7 @@
             "description": "<p>Orion is a peer to peer file sharing application(Web/Desktop), where you can upload and download any file, Build using IPFS protocol.</p><p>- Designed &amp; implemented UI for siderus file sharing app</p><p>- Designed orion.siderus.com, with hugo using material ui</p><p>- Implemented features like theme switch, share file &amp; download file options, and new addition in settings menu</p><p>- Added option to sync setting in electron and web app with web workers</p><p>- Used web workers to communicate between web and electron app</p>"
         },
         {
-            "title": "Freelance Software Developer",
+            "title": "Software Developer (Contract)",
             "technology": "Javascript, Jekyll, HTML, CSS, Bootstrap, Google Drive Sheet API",
             "company": "Plivo Documentation",
             "from": "Oct 2018",
